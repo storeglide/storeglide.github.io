@@ -1,2 +1,2 @@
-# vaultnet.github.io
-Temporary webpage for Vault Net Service
+# storeglide.github.io
+Temporary webpage for Store Glide Service
